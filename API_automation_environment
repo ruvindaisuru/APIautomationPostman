@@ -1,0 +1,16 @@
+{
+	"id": "860ac2d6-8774-4afb-80f6-c2ce1af8b0f9",
+	"name": "Automation API Environment",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-11-23T20:57:54.278Z",
+	"_postman_exported_using": "Postman/11.72.9"
+}
